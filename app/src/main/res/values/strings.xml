@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="news">News</string>
+    <string name="no_internet_connection">No Internet Connection!!</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="save_image">Save Image</string>
+    <string name="image_save">Image saved successfully to your device</string>
+    <string name="error">Error</string>
+</resources>
