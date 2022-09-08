@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/News-App/app/src/main/res/drawable/black_stoke.xml" value="0.10555555555555556" />
         <entry key="..\:/NewsApp/app/src/main/res/drawable/black_stoke.xml" value="0.10740740740740741" />
         <entry key="..\:/NewsApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/NewsApp/app/src/main/res/layout/activity_news.xml" value="0.1" />
